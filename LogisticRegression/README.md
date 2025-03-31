@@ -48,7 +48,7 @@ This are the top 10 reasons for defaulting with its coefficient plotted in image
 5. Attribute3_A34 => A3: Credit history => A34 : critical account/
 		    other credits existing (not at this bank)
 6. Attribute14_A143 => A14: Other installment plans => A143 : none
-7. Attribute1_A13 => A1: Status of existing checking account => A13: 200 DM >= 200 DM /
+7. Attribute1_A13 => A1: Status of existing checking account => A13: >= 200 DM /
 		     salary assignments for at least 1 year
 8. Attribute4_A410 => A4: Purpose => A410: others
 9. Attribute4_A43 => A4: Purpose => A43: radio/television
