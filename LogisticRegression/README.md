@@ -19,15 +19,15 @@ The results for 1)
 | F1-score     | 0.64                  | 0.55                  | 0.60     | 0.60      | 0.61         |
 | Support      | 141                   | 59                    | 200      | 200       | 200          |
 
-For Class 0 (Good Credit):
-Precision	0.88	=> Of all customers predicted as "Good", 88% were actually good.
-Recall	0.50 =>	The model correctly identified 50% of truly good customers.
-F1-score	0.76 =>	Balance between precision and recall (closer to 1 = better).
+For Class 0 (Good Credit):<br>
+Precision	0.88	=> Of all customers predicted as "Good", 88% were actually good. <br>
+Recall	0.50 =>	The model correctly identified 50% of truly good customers.<br>
+F1-score	0.76 =>	Balance between precision and recall (closer to 1 = better).<br>
 
-For Class 1 (Bad Credit):
-Precision	0.41 =>	Of all customers predicted as "Bad", only 41% actually defaulted.
-Recall	0.83 =>	The model caught 83% of true defaulters.
-F1-score	0.55 =>	Moderate performance for the "Bad" class.
+For Class 1 (Bad Credit):<br>
+Precision	0.41 =>	Of all customers predicted as "Bad", only 41% actually defaulted.<br>
+Recall	0.83 =>	The model caught 83% of true defaulters.<br>
+F1-score	0.55 =>	Moderate performance for the "Bad" class.<br>
 
 Accuracy => 60% of all predictions were correct.
 
@@ -63,15 +63,15 @@ The results for 2):
 | F1-score     | 0.76                  | 0.60                  | 0.70     | 0.68      | 0.72         |
 | Support      | 141                   | 59                    | 200      | 200       | 200          |
 
-For Class 0 (Good Credit):
-Precision	0.87	=> Of all customers predicted as "Good", 87% were actually good.
-Recall	0.68 =>	The model correctly identified 68% of truly good customers.
-F1-score	0.76 =>	Balance between precision and recall (closer to 1 = better).
+For Class 0 (Good Credit):<br>
+Precision	0.87	=> Of all customers predicted as "Good", 87% were actually good.<br>
+Recall	0.68 =>	The model correctly identified 68% of truly good customers.<br>
+F1-score	0.76 =>	Balance between precision and recall (closer to 1 = better).<br>
 
-For Class 1 (Bad Credit):
-Precision	0.50 =>	Of all customers predicted as "Bad", only 50% actually defaulted.
-Recall	0.76 =>	The model caught 76% of true defaulters.
-F1-score	0.60 =>	Moderate performance for the "Bad" class.
+For Class 1 (Bad Credit):<br>
+Precision	0.50 =>	Of all customers predicted as "Bad", only 50% actually defaulted.<br>
+Recall	0.76 =>	The model caught 76% of true defaulters.<br>
+F1-score	0.60 =>	Moderate performance for the "Bad" class.<br>
 
 Accuracy => 70% of all predictions were correct.
 
