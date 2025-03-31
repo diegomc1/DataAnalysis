@@ -91,7 +91,7 @@ This are the top 10 reasons for defaulting with its coefficient plotted in image
 		    other credits existing (not at this bank)
 4. Attribute20_A202 => A20: foreign worker => A202 : no
 5. Attribute4_A48 => A4: Purpose =>  A48 : retraining
-6. Attribute1_A13 => A1: Status of existing checking account => A13: 200 DM >= 200 DM /
+6. Attribute1_A13 => A1: Status of existing checking account => A13: >= 200 DM /
 		     salary assignments for at least 1 year
 7. Attribute4_A43 => A4: Purpose => A43: radio/television
 8. Attribute14_A143 => A14: Other installment plans => A143 : none
