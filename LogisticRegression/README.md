@@ -33,9 +33,10 @@ Accuracy => 60% of all predictions were correct.
 
 Image: confusionMxCostMatrix.png
 
-ActualGood: 0	  71 (TN)	    70 (FP)
-ActualBad: 1  	10 (FN)	    49 (TP)
-        PredictedGood: 0	PredictedBad: 1
+|                | Predicted Good (0) | Predicted Bad (1) |
+|---------------|------------------|------------------|
+| **Actual Good (0)** | 71 (TN)          | 70 (FP)          |
+| **Actual Bad (1)**  | 10 (FN)          | 49 (TP)          |
 
 Image: Top10FeaturesCostMatrix.png
 
@@ -77,9 +78,11 @@ Accuracy => 70% of all predictions were correct.
 
 Image: confusionMxBalanced.png
 
-ActualGood: 0	  96 (TN)	    45 (FP)
-ActualBad: 1  	14 (FN)	    45 (TP)
-        PredictedGood: 0	PredictedBad: 1
+|                | Predicted Good (0) | Predicted Bad (1) |
+|---------------|------------------|------------------|
+| **Actual Good (0)** |  96 (TN)          | 45 (FP)          |
+| **Actual Bad (1)**  | 14 (FN)          | 45 (TP)          |
+
 
 Image: Top10FeaturesBalanced.png
 
