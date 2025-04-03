@@ -31,14 +31,16 @@ F1-score	0.55 =>	Moderate performance for the "Bad" class.<br>
 
 Accuracy => 60% of all predictions were correct.
 
-Image: confusionMxCostMatrix.png
+Image: confusionMxCostMatrix.png<br>
+![ConfussionMatrixCostMx.](https://github.com/diegomc1/DataAnalysis/blob/master/LogisticRegression/ConfusionMxCostMatrix.png)<br>
 
 |                | Predicted Good (0) | Predicted Bad (1) |
 |---------------|------------------|------------------|
 | **Actual Good (0)** | 71 (TN)          | 70 (FP)          |
 | **Actual Bad (1)**  | 10 (FN)          | 49 (TP)          |
 
-Image: Top10FeaturesCostMatrix.png
+Image: Top10FeaturesCostMatrix.png<br>
+![Top10FeaturesCostMatrix.](https://github.com/diegomc1/DataAnalysis/blob/master/LogisticRegression/Top10FeaturesCostMatrix.png)<br>
 
 This are the top 10 reasons for defaulting with its coefficient plotted in image.
 
@@ -76,7 +78,9 @@ F1-score	0.60 =>	Moderate performance for the "Bad" class.<br>
 
 Accuracy => 70% of all predictions were correct.
 
-Image: confusionMxBalanced.png
+Image: confusionMxBalanced.png <br>
+![ConfussionMatrixBalanced.](https://github.com/diegomc1/DataAnalysis/blob/master/LogisticRegression/ConfusionMxBalanced.png)<br>
+
 
 |                | Predicted Good (0) | Predicted Bad (1) |
 |---------------|------------------|------------------|
@@ -84,7 +88,8 @@ Image: confusionMxBalanced.png
 | **Actual Bad (1)**  | 14 (FN)          | 45 (TP)          |
 
 
-Image: Top10FeaturesBalanced.png
+Image: Top10FeaturesBalanced.png <br>
+![Top10FeaturesBalanced.](https://github.com/diegomc1/DataAnalysis/blob/master/LogisticRegression/Top10FeaturesBalanced.png)<br>
 
 This are the top 10 reasons for defaulting with its coefficient plotted in image.
 
