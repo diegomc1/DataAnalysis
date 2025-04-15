@@ -1,3 +1,7 @@
+Logistic Regression and Random Forest are 2 machine learning algorithms which were applied in a German Bank dataset with clients with different attributes which are believed to cause the client to default. This algorithms give which attributes weigh the most for client default, as well as try to categorize which clients are most likely to default.
+
+---------------------------------------------------------------------------------------------------------------------------
+
 For MonsterHunterAttkVsCrit.py, the results are the images CritEye=5.png and CritEye=0.png which compares in terms of 
 percentage +/- plotting in which cases is better to have more attack boost vs critical boost, considering critical_eye 
 which is an item that gives more affinity.
